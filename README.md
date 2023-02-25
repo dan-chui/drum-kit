@@ -1,6 +1,6 @@
 # Drum Kit
 
-A JavaScript page that uses Event Listeners to play drum sounds by click and keyboard press. Additionally, a Light/Dark toggle switch was added for presentation.
+A mobile reponsive page that uses Event Listeners to play drum sounds by click and keyboard press. Additionally, a Light/Dark toggle switch was added for presentation.
 
 
 ## Tech Stack
@@ -17,4 +17,4 @@ To run the site on your local machine:
 4) Alternatively, you can click on the following Site Link to view.
 ## Demo
 
-![](images/Screenshot.png)
+![](/assets/images/Screenshot.png)
