@@ -1,15 +1,15 @@
-:root{
-  --first-color: #D2DAFF;
-  --second-color: #100C0C;
-  --third-color: #DA0463;
-  --fourth-color: #404B69;
+:root {
+  --first-color: #d2daff;
+  --second-color: #100c0c;
+  --third-color: #da0463;
+  --fourth-color: #404b69;
 }
 
-.dark-mode{
-  --first-color: #3B3486;
+.dark-mode {
+  --first-color: #3b3486;
   --second-color: #fff;
-  --third-color: #FF8FB1;
-  --fourth-color: #DA0463;
+  --third-color: #ff8fb1;
+  --fourth-color: #da0463;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
   background-color: var(--first-color);
 }
 
-#icon{
+#icon {
   width: 50px;
   cursor: pointer;
   float: right;
@@ -28,36 +28,35 @@ h1 {
   font-size: 5rem;
   color: var(--second-color);
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #da0463;
 }
 
-
 .w {
-background-image: url("images/tom1.png");
+  background-image: url("/assets/images/tom1.png");
 }
 
 .a {
-background-image: url("images/tom2.png");
+  background-image: url("/assets/images/tom2.png");
 }
 
 .s {
-background-image: url("images/tom3.png");
+  background-image: url("/assets/images/tom3.png");
 }
 
 .d {
-background-image: url("images/tom4.png");
+  background-image: url("/assets/images/tom4.png");
 }
 
 .j {
-background-image: url("images/snare.png");
+  background-image: url("/assets/images/snare.png");
 }
 
 .k {
-background-image: url("images/crash.png");
+  background-image: url("/assets/images/crash.png");
 }
 
 .l {
-background-image: url("images/kick.png");
+  background-image: url("/assets/images/kick.png");
 }
 
 .set {
@@ -65,19 +64,19 @@ background-image: url("images/kick.png");
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
+  box-shadow: 0 3px 4px 0 #dbedf3;
   opacity: 0.5;
 }
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #404b69;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
+  font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
   color: var(--third-color);
-  text-shadow: 3px 0 #DBEDF3;
+  text-shadow: 3px 0 #dbedf3;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
