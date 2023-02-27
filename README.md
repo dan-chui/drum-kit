@@ -17,4 +17,4 @@ To run the site on your local machine:
 
 ## Demo
 
-![](/assets/images/screenshot.png)
+![](/assets/images/Screenshot.png)
