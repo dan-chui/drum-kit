@@ -1,11 +1,6 @@
 # Drum Kit
 
-<<<<<<< HEAD
 A mobile responsive page that uses Event Listeners to play drum sounds by click and keyboard press. Additionally, a Light/Dark toggle switch was added for presentation. Inspired by Angela Yu.
-=======
-A mobile reponsive page that uses Event Listeners to play drum sounds by click and keyboard press. Additionally, a Light/Dark toggle switch was added for presentation.
-
->>>>>>> ae716c58c4966aca494c535369e663950f085c19
 
 ## Tech Stack
 
@@ -22,8 +17,4 @@ To run the site on your local machine:
 
 ## Demo
 
-<<<<<<< HEAD
 ![](/assets/images/screenshot.png)
-=======
-![](/assets/images/Screenshot.png)
->>>>>>> ae716c58c4966aca494c535369e663950f085c19
